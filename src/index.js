@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Route, HashRouter,Switch, Redirect } from "react-router-dom";
-// import './index.css';
+import './index.less';
 import HomePage from './pages/HomePage/HomePage';
 import * as serviceWorker from './serviceWorker';
 // import { Provider } from "react-redux";
